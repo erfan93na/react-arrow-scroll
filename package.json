@@ -1,8 +1,11 @@
 {
   "name": "react-arrow-scroll",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.10.16",
+    "@mui/system": "^5.10.16",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,6 +15,7 @@
     "@types/react-dom": "^18.0.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.3",
     "web-vitals": "^2.1.4"
@@ -39,5 +43,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfan93na/react-arrow-scroll.git"
+  },
+  "keywords": [
+    "react",
+    "scroll",
+    "arrow"
+  ],
+  "author": "Erfan Naghashlou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erfan93na/react-arrow-scroll/issues"
+  },
+  "homepage": "https://github.com/erfan93na/react-arrow-scroll#readme"
 }
